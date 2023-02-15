@@ -1,3 +1,3 @@
 # helloword
 first repository
-I love :coffee:
+I love cs
